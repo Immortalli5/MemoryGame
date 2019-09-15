@@ -1,0 +1,21 @@
+D:\patryk\MemoryGame\bin\Debug\MemoryGame.exe.config
+D:\patryk\MemoryGame\bin\Debug\MemoryGame.exe
+D:\patryk\MemoryGame\bin\Debug\MemoryGame.pdb
+D:\patryk\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+D:\patryk\MemoryGame\obj\Debug\MemoryGame.Form1.resources
+D:\patryk\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+D:\patryk\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+D:\patryk\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+D:\patryk\MemoryGame\obj\Debug\MemoryGame.exe
+D:\patryk\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\patry\Desktop\PROGRAMY\workspace\memory game\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\patry\Desktop\PROGRAMY\workspace\memory game\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\patry\Desktop\PROGRAMY\workspace\memory game\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\patry\Desktop\PROGRAMY\workspace\memory game\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+C:\Users\patry\Desktop\PROGRAMY\workspace\memory game\MemoryGame\obj\Debug\MemoryGame.Form1.resources
+C:\Users\patry\Desktop\PROGRAMY\workspace\memory game\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\patry\Desktop\PROGRAMY\workspace\memory game\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\patry\Desktop\PROGRAMY\workspace\memory game\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\patry\Desktop\PROGRAMY\workspace\memory game\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\patry\Desktop\PROGRAMY\workspace\memory game\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\patry\Desktop\PROGRAMY\workspace\memory game\MemoryGame\obj\Debug\MemoryGame.Form2.resources
